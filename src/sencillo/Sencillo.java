@@ -17,6 +17,7 @@ public class Sencillo {
         System.out.println("El resultado de elevar el número al cuadrado es: " + cuadrado);
         System.out.println("HolaMundo");
         System.out.println("Este es el resultado de" + cuadrado);
+        System.out.println("Sergio y pere");
         scanner.close();
     }
 }
